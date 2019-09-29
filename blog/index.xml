@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Actualités on Badminton Club Le Vaud</title>
+    <link>https://bclv.ch/blog/</link>
+    <description>Recent content in Actualités on Badminton Club Le Vaud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Sep 2019 13:10:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://bclv.ch/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Assemblée générale</title>
+      <link>https://bclv.ch/blog/ag2019/</link>
+      <pubDate>Sat, 28 Sep 2019 13:10:31 +0200</pubDate>
+      
+      <guid>https://bclv.ch/blog/ag2019/</guid>
+      <description>Assemblée Générale le mercredi 6 Novembre 2019. Une convocation vous parviendra dans les prochains jours.</description>
+    </item>
+    
+    <item>
+      <title>Tournoi de Volley Interclubs à Le Vaud</title>
+      <link>https://bclv.ch/blog/volley2019/</link>
+      <pubDate>Sat, 28 Sep 2019 13:07:31 +0200</pubDate>
+      
+      <guid>https://bclv.ch/blog/volley2019/</guid>
+      <description>Le VBC Smash (club de volley de Le Vaud) organise son 25ème tournoi interclubs le samedi 2 Novembre 2019 L&amp;rsquo;évènement dure toute la journée avec soirée raclettes.
+Pour une éventuelle participation de notre club, le Comité vous propose de former une équipe.
+Celle-ci étant composée de six membres minimum, il nous faudrait idéalement un nombre plus élevé afin de pouvoir faire un tournus.
+N&amp;rsquo;ayez crainte, nul besoin d&amp;rsquo;être un joueur chevronné, le but étant de prendre du plaisir :-).</description>
+    </item>
+    
+  </channel>
+</rss>
