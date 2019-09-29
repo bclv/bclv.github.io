@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Badminton Club Le Vaud</title>
-    <link>https://bclv.ch/</link>
+    <link>https://bclv.github.io/</link>
     <description>Recent content on Badminton Club Le Vaud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Sep 2019 13:10:31 +0200</lastBuildDate>
     
-	<atom:link href="https://bclv.ch/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bclv.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Assemblée générale</title>
-      <link>https://bclv.ch/blog/ag2019/</link>
+      <link>https://bclv.github.io/blog/ag2019/</link>
       <pubDate>Sat, 28 Sep 2019 13:10:31 +0200</pubDate>
       
-      <guid>https://bclv.ch/blog/ag2019/</guid>
+      <guid>https://bclv.github.io/blog/ag2019/</guid>
       <description>Assemblée Générale le mercredi 6 Novembre 2019. Une convocation vous parviendra dans les prochains jours.</description>
     </item>
     
     <item>
       <title>Tournoi de Volley Interclubs à Le Vaud</title>
-      <link>https://bclv.ch/blog/volley2019/</link>
+      <link>https://bclv.github.io/blog/volley2019/</link>
       <pubDate>Sat, 28 Sep 2019 13:07:31 +0200</pubDate>
       
-      <guid>https://bclv.ch/blog/volley2019/</guid>
+      <guid>https://bclv.github.io/blog/volley2019/</guid>
       <description>Le VBC Smash (club de volley de Le Vaud) organise son 25ème tournoi interclubs le samedi 2 Novembre 2019 L&amp;rsquo;évènement dure toute la journée avec soirée raclettes.
 Pour une éventuelle participation de notre club, le Comité vous propose de former une équipe.
 Celle-ci étant composée de six membres minimum, il nous faudrait idéalement un nombre plus élevé afin de pouvoir faire un tournus.
@@ -34,37 +34,37 @@ N&amp;rsquo;ayez crainte, nul besoin d&amp;rsquo;être un joueur chevronné, le 
     
     <item>
       <title>Inscriptions &amp; Informations pratiques</title>
-      <link>https://bclv.ch/pratique/</link>
+      <link>https://bclv.github.io/pratique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bclv.ch/pratique/</guid>
+      <guid>https://bclv.github.io/pratique/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Le Club</title>
-      <link>https://bclv.ch/club/</link>
+      <link>https://bclv.github.io/club/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bclv.ch/club/</guid>
+      <guid>https://bclv.github.io/club/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photos</title>
-      <link>https://bclv.ch/photos/</link>
+      <link>https://bclv.github.io/photos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bclv.ch/photos/</guid>
+      <guid>https://bclv.github.io/photos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Service</title>
-      <link>https://bclv.ch/service/</link>
+      <link>https://bclv.github.io/service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bclv.ch/service/</guid>
+      <guid>https://bclv.github.io/service/</guid>
       <description></description>
     </item>
     

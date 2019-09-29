@@ -3,76 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bclv.ch/blog/</loc>
+    <loc>https://bclv.github.io/blog/</loc>
     <lastmod>2019-09-28T13:10:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bclv.ch/blog/ag2019/</loc>
+    <loc>https://bclv.github.io/blog/ag2019/</loc>
     <lastmod>2019-09-28T13:10:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bclv.ch/</loc>
-    <lastmod>2019-09-28T13:10:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/categories/</loc>
+    <loc>https://bclv.github.io/</loc>
     <lastmod>2019-09-28T13:10:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bclv.ch/tags/</loc>
+    <loc>https://bclv.github.io/categories/</loc>
     <lastmod>2019-09-28T13:10:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bclv.ch/categories/ag/</loc>
+    <loc>https://bclv.github.io/tags/</loc>
     <lastmod>2019-09-28T13:10:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bclv.ch/tags/ag-2019/</loc>
+    <loc>https://bclv.github.io/categories/ag/</loc>
     <lastmod>2019-09-28T13:10:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bclv.ch/blog/volley2019/</loc>
+    <loc>https://bclv.github.io/tags/ag-2019/</loc>
+    <lastmod>2019-09-28T13:10:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bclv.github.io/blog/volley2019/</loc>
     <lastmod>2019-09-28T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bclv.ch/categories/volley/</loc>
-    <lastmod>2019-09-28T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/tags/volley/</loc>
+    <loc>https://bclv.github.io/categories/volley/</loc>
     <lastmod>2019-09-28T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bclv.ch/pratique/</loc>
+    <loc>https://bclv.github.io/tags/volley/</loc>
+    <lastmod>2019-09-28T13:07:31+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bclv.ch/club/</loc>
+    <loc>https://bclv.github.io/pratique/</loc>
   </url>
   
   <url>
-    <loc>https://bclv.ch/photos/</loc>
+    <loc>https://bclv.github.io/club/</loc>
   </url>
   
   <url>
-    <loc>https://bclv.ch/service/</loc>
+    <loc>https://bclv.github.io/photos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bclv.github.io/service/</loc>
   </url>
   
 </urlset>

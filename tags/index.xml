@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Badminton Club Le Vaud</title>
-    <link>https://bclv.ch/tags/</link>
+    <link>https://bclv.github.io/tags/</link>
     <description>Recent content in Tags on Badminton Club Le Vaud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Sep 2019 13:10:31 +0200</lastBuildDate>
     
-	<atom:link href="https://bclv.ch/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bclv.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ag 2019</title>
-      <link>https://bclv.ch/tags/ag-2019/</link>
+      <link>https://bclv.github.io/tags/ag-2019/</link>
       <pubDate>Sat, 28 Sep 2019 13:10:31 +0200</pubDate>
       
-      <guid>https://bclv.ch/tags/ag-2019/</guid>
+      <guid>https://bclv.github.io/tags/ag-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>volley</title>
-      <link>https://bclv.ch/tags/volley/</link>
+      <link>https://bclv.github.io/tags/volley/</link>
       <pubDate>Sat, 28 Sep 2019 13:07:31 +0200</pubDate>
       
-      <guid>https://bclv.ch/tags/volley/</guid>
+      <guid>https://bclv.github.io/tags/volley/</guid>
       <description></description>
     </item>
     
