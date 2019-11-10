@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ag on Badminton Club Le Vaud</title>
-    <link>https://bclv.github.io/categories/ag/</link>
+    <link>https://bclv.ch/categories/ag/</link>
     <description>Recent content in ag on Badminton Club Le Vaud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Nov 2019 06:07:08 +0200</lastBuildDate>
     
-	<atom:link href="https://bclv.github.io/categories/ag/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bclv.ch/categories/ag/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Assemblée générale 2020</title>
-      <link>https://bclv.github.io/blog/ag2020/</link>
+      <link>https://bclv.ch/blog/ag2020/</link>
       <pubDate>Sun, 10 Nov 2019 06:07:08 +0200</pubDate>
       
-      <guid>https://bclv.github.io/blog/ag2020/</guid>
+      <guid>https://bclv.ch/blog/ag2020/</guid>
       <description>la prochaine AG se déroulera le 16 Septembre 2020. .</description>
     </item>
     
     <item>
       <title>Assemblée générale 2019</title>
-      <link>https://bclv.github.io/blog/ag2019/</link>
+      <link>https://bclv.ch/blog/ag2019/</link>
       <pubDate>Sat, 28 Sep 2019 13:10:31 +0200</pubDate>
       
-      <guid>https://bclv.github.io/blog/ag2019/</guid>
+      <guid>https://bclv.ch/blog/ag2019/</guid>
       <description>Assemblée Générale le mercredi 6 Novembre 2019. Une convocation vous parviendra dans les prochains jours.</description>
     </item>
     
