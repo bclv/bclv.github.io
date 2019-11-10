@@ -4,36 +4,81 @@
   
   <url>
     <loc>https://bclv.github.io/blog/</loc>
-    <lastmod>2019-09-28T13:10:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bclv.github.io/blog/ag2019/</loc>
-    <lastmod>2019-09-28T13:10:31+02:00</lastmod>
+    <lastmod>2019-11-10T06:07:16+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://bclv.github.io/</loc>
-    <lastmod>2019-09-28T13:10:31+02:00</lastmod>
+    <lastmod>2019-11-10T06:07:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bclv.github.io/categories/</loc>
-    <lastmod>2019-09-28T13:10:31+02:00</lastmod>
+    <lastmod>2019-11-10T06:07:16+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bclv.github.io/blog/hiver20192020/</loc>
+    <lastmod>2019-11-10T06:07:16+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://bclv.github.io/tags/</loc>
-    <lastmod>2019-09-28T13:10:31+02:00</lastmod>
+    <lastmod>2019-11-10T06:07:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bclv.github.io/categories/ag/</loc>
-    <lastmod>2019-09-28T13:10:31+02:00</lastmod>
+    <loc>https://bclv.github.io/categories/horaires/</loc>
+    <lastmod>2019-11-10T06:07:16+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bclv.github.io/tags/horaires/</loc>
+    <lastmod>2019-11-10T06:07:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bclv.github.io/blog/tournoi2020/</loc>
+    <lastmod>2019-11-10T06:07:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bclv.github.io/categories/tournoi/</loc>
+    <lastmod>2019-11-10T06:07:09+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bclv.github.io/tags/tournoi-2020/</loc>
+    <lastmod>2019-11-10T06:07:09+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bclv.github.io/blog/ag2020/</loc>
+    <lastmod>2019-11-10T06:07:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bclv.github.io/categories/ag/</loc>
+    <lastmod>2019-11-10T06:07:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bclv.github.io/tags/ag-2020/</loc>
+    <lastmod>2019-11-10T06:07:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bclv.github.io/blog/ag2019/</loc>
+    <lastmod>2019-09-28T13:10:31+02:00</lastmod>
   </url>
   
   <url>
