@@ -3,31 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bclv.ch/blog/18dec2019/</loc>
+    <lastmod>2019-11-11T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bclv.ch/blog/</loc>
-    <lastmod>2019-11-10T06:07:16+02:00</lastmod>
+    <lastmod>2019-11-11T13:07:31+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://bclv.ch/</loc>
-    <lastmod>2019-11-10T06:07:16+02:00</lastmod>
+    <lastmod>2019-11-11T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bclv.ch/categories/</loc>
-    <lastmod>2019-11-10T06:07:16+02:00</lastmod>
+    <lastmod>2019-11-11T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bclv.ch/categories/ouverture/</loc>
+    <lastmod>2019-11-11T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bclv.ch/tags/ouverture/</loc>
+    <lastmod>2019-11-11T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bclv.ch/tags/</loc>
+    <lastmod>2019-11-11T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bclv.ch/blog/hiver20192020/</loc>
     <lastmod>2019-11-10T06:07:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/tags/</loc>
-    <lastmod>2019-11-10T06:07:16+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
