@@ -4,64 +4,30 @@
   
   <url>
     <loc>https://bclv.ch/blog/</loc>
-    <lastmod>2019-12-03T13:07:31+02:00</lastmod>
+    <lastmod>2019-11-10T06:07:16+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://bclv.ch/</loc>
-    <lastmod>2019-12-03T13:07:31+02:00</lastmod>
+    <lastmod>2019-11-10T06:07:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bclv.ch/categories/</loc>
-    <lastmod>2019-12-03T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/blog/avent2019/</loc>
-    <lastmod>2019-12-03T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/tags/</loc>
-    <lastmod>2019-12-03T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/categories/avent/</loc>
-    <lastmod>2019-12-03T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/tags/avent/</loc>
-    <lastmod>2019-12-03T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/blog/18dec2019/</loc>
-    <lastmod>2019-11-11T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/categories/ouverture/</loc>
-    <lastmod>2019-11-11T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/tags/ouverture/</loc>
-    <lastmod>2019-11-11T13:07:31+02:00</lastmod>
+    <lastmod>2019-11-10T06:07:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bclv.ch/blog/hiver20192020/</loc>
     <lastmod>2019-11-10T06:07:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bclv.ch/tags/</loc>
+    <lastmod>2019-11-10T06:07:16+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -107,34 +73,6 @@
   <url>
     <loc>https://bclv.ch/tags/ag-2020/</loc>
     <lastmod>2019-11-10T06:07:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/blog/ag2019/</loc>
-    <lastmod>2019-09-28T13:10:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/tags/ag-2019/</loc>
-    <lastmod>2019-09-28T13:10:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/blog/volley2019/</loc>
-    <lastmod>2019-09-28T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/categories/volley/</loc>
-    <lastmod>2019-09-28T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/tags/volley/</loc>
-    <lastmod>2019-09-28T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
