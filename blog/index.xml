@@ -6,10 +6,20 @@
     <description>Recent content in Actualités on Badminton Club Le Vaud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Nov 2019 06:07:16 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2020 06:07:09 +0200</lastBuildDate>
     
 	<atom:link href="https://bclv.ch/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>COVID19</title>
+      <link>https://bclv.ch/blog/covid19/</link>
+      <pubDate>Thu, 13 Feb 2020 06:07:09 +0200</pubDate>
+      
+      <guid>https://bclv.ch/blog/covid19/</guid>
+      <description>Chers membres,
+Par mesure sanitaire et compte tenu des recommandations de nos autorités concernant le COVID19, nous renonçons à nous retrouver pour notre tournoi du 18 mars prochain! Par mesure sanitaire nous annulons également les prochains entraînements en salle jusqu’à fin avril! En revanche nous vous encourageons à sortir dans notre belle nature pour vous ressourcer individuellement et vous dépenser physiquement!!</description>
+    </item>
     
     <item>
       <title>Horaires d&#39;hiver 2019 / 2020</title>
@@ -21,16 +31,6 @@
 La salle est cependant réservée régulièrement pour des événements tels que mariages ou anniversaires ou autre.
 Nous nous efforcerons de vous indiquer les dates disponibles pour le BCLV sur notre site à la rubrique actualité!
 Vous pouvez d’ores et déjà retenir les dates suivantes pour venir jouer:</description>
-    </item>
-    
-    <item>
-      <title>COVID19</title>
-      <link>https://bclv.ch/blog/covid19/</link>
-      <pubDate>Sun, 10 Nov 2019 06:07:09 +0200</pubDate>
-      
-      <guid>https://bclv.ch/blog/covid19/</guid>
-      <description>Chers membres,
-Par mesure sanitaire et compte tenu des recommandations de nos autorités concernant le COVID19, nous renonçons à nous retrouver pour notre tournoi du 18 mars prochain! Par mesure sanitaire nous annulons également les prochains entraînements en salle jusqu’à fin avril! En revanche nous vous encourageons à sortir dans notre belle nature pour vous ressourcer individuellement et vous dépenser physiquement!!</description>
     </item>
     
     <item>
