@@ -3,13 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bclv.ch/blog/printemps2020/</loc>
+    <lastmod>2020-03-24T06:07:09+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bclv.ch/blog/</loc>
-    <lastmod>2020-02-13T06:07:09+02:00</lastmod>
+    <lastmod>2020-03-24T06:07:09+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://bclv.ch/</loc>
-    <lastmod>2020-02-13T06:07:09+02:00</lastmod>
+    <lastmod>2020-03-24T06:07:09+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bclv.ch/categories/covid19/</loc>
+    <lastmod>2020-03-24T06:07:09+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bclv.ch/tags/covid19/</loc>
+    <lastmod>2020-03-24T06:07:09+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bclv.ch/categories/</loc>
+    <lastmod>2020-03-24T06:07:09+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bclv.ch/tags/</loc>
+    <lastmod>2020-03-24T06:07:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -20,18 +49,6 @@
   
   <url>
     <loc>https://bclv.ch/tags/covid19-tournoi/</loc>
-    <lastmod>2020-02-13T06:07:09+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/categories/</loc>
-    <lastmod>2020-02-13T06:07:09+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/tags/</loc>
     <lastmod>2020-02-13T06:07:09+02:00</lastmod>
     <priority>0</priority>
   </url>
