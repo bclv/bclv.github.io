@@ -6,10 +6,22 @@
     <description>Recent content in Actualités on Badminton Club Le Vaud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2020 06:07:09 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2020 06:07:08 +0200</lastBuildDate>
     
 	<atom:link href="https://bclv.ch/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Assemblée générale 2020</title>
+      <link>https://bclv.ch/blog/ag2020/</link>
+      <pubDate>Mon, 24 Aug 2020 06:07:08 +0200</pubDate>
+      
+      <guid>https://bclv.ch/blog/ag2020/</guid>
+      <description>Chers membres sportifs,
+Nous espérons que notre courriel vous trouve en pleine forme et en santé, bronzés et pétillants de vigueur pour une toute prochaine reprise de notre sport de prédilection !!
+Voici quelques mois passés sans nouvelles de notre part. Nous vous rappelons que l’Assemblée Générale du BCLV aura lieu le mercredi 16 septembre à 19h30 au bar «Le Phoenix» de la salle des Cimes.
+Lors de cette assemblée, nous profiterons pour reprendre contact avec chacun, prendre des nouvelles et répondre aussi à vos interrogations.</description>
+    </item>
     
     <item>
       <title>COVID19</title>
@@ -57,15 +69,6 @@ Vous pouvez d’ores et déjà retenir les dates suivantes pour venir jouer:</de
 Simple &amp;amp; double-mixte !
 Vous pouvez trouver votre partenaire de double d’ici-là et vous inscrire sur place le jour même !
 Des informations plus complètes vous serons données début mars.</description>
-    </item>
-    
-    <item>
-      <title>Assemblée générale 2020</title>
-      <link>https://bclv.ch/blog/ag2020/</link>
-      <pubDate>Sun, 10 Nov 2019 06:07:08 +0200</pubDate>
-      
-      <guid>https://bclv.ch/blog/ag2020/</guid>
-      <description>la prochaine AG se déroulera le 16 Septembre 2020. .</description>
     </item>
     
   </channel>
