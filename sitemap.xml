@@ -1,151 +1,88 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://bclv.ch/blog/</loc>
-    <lastmod>2020-10-27T06:07:08+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-28T14:07:08+02:00</lastmod>
+  </url><url>
+    <loc>https://bclv.ch/</loc>
+    <lastmod>2021-02-28T14:07:08+02:00</lastmod>
+  </url><url>
+    <loc>https://bclv.ch/categories/</loc>
+    <lastmod>2021-02-28T14:07:08+02:00</lastmod>
+  </url><url>
+    <loc>https://bclv.ch/categories/general/</loc>
+    <lastmod>2021-02-28T14:07:08+02:00</lastmod>
+  </url><url>
+    <loc>https://bclv.ch/tags/reouverture-partielle/</loc>
+    <lastmod>2021-02-28T14:07:08+02:00</lastmod>
+  </url><url>
+    <loc>https://bclv.ch/blog/reouverturepartiellemars2021/</loc>
+    <lastmod>2021-02-28T14:07:08+02:00</lastmod>
+  </url><url>
+    <loc>https://bclv.ch/tags/</loc>
+    <lastmod>2021-02-28T14:07:08+02:00</lastmod>
+  </url><url>
     <loc>https://bclv.ch/blog/fermetureautomne2020/</loc>
     <lastmod>2020-10-27T06:07:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/</loc>
-    <lastmod>2020-10-27T06:07:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/categories/</loc>
-    <lastmod>2020-10-27T06:07:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/tags/</loc>
-    <lastmod>2020-10-27T06:07:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bclv.ch/tags/fermeture/</loc>
     <lastmod>2020-10-27T06:07:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/categories/general/</loc>
-    <lastmod>2020-10-27T06:07:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/blog/ag2020/</loc>
-    <lastmod>2020-08-30T06:07:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/blog/reouverture2020/</loc>
-    <lastmod>2020-08-30T06:07:08+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bclv.ch/categories/ag/</loc>
     <lastmod>2020-08-30T06:07:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bclv.ch/tags/ag-2020/</loc>
     <lastmod>2020-08-30T06:07:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://bclv.ch/blog/ag2020/</loc>
+    <lastmod>2020-08-30T06:07:08+02:00</lastmod>
+  </url><url>
     <loc>https://bclv.ch/tags/reprise/</loc>
     <lastmod>2020-08-30T06:07:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://bclv.ch/blog/reouverture2020/</loc>
+    <lastmod>2020-08-30T06:07:08+02:00</lastmod>
+  </url><url>
     <loc>https://bclv.ch/blog/covid19/</loc>
     <lastmod>2020-05-08T06:07:09+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bclv.ch/tags/covid19-tournoi/</loc>
     <lastmod>2020-05-08T06:07:09+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bclv.ch/categories/tournoi/</loc>
     <lastmod>2020-05-08T06:07:09+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bclv.ch/blog/printemps2020/</loc>
     <lastmod>2020-03-24T06:07:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/categories/covid19/</loc>
-    <lastmod>2020-03-24T06:07:09+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bclv.ch/tags/covid19/</loc>
     <lastmod>2020-03-24T06:07:09+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/blog/hiver20192020/</loc>
-    <lastmod>2019-11-10T06:07:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/categories/horaires/</loc>
-    <lastmod>2019-11-10T06:07:16+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://bclv.ch/categories/covid19/</loc>
+    <lastmod>2020-03-24T06:07:09+02:00</lastmod>
+  </url><url>
     <loc>https://bclv.ch/tags/horaires/</loc>
     <lastmod>2019-11-10T06:07:16+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bclv.ch/blog/tournoi2020/</loc>
-    <lastmod>2019-11-10T06:07:09+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://bclv.ch/categories/horaires/</loc>
+    <lastmod>2019-11-10T06:07:16+02:00</lastmod>
+  </url><url>
+    <loc>https://bclv.ch/blog/hiver20192020/</loc>
+    <lastmod>2019-11-10T06:07:16+02:00</lastmod>
+  </url><url>
     <loc>https://bclv.ch/tags/tournoi-2020/</loc>
     <lastmod>2019-11-10T06:07:09+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://bclv.ch/blog/tournoi2020/</loc>
+    <lastmod>2019-11-10T06:07:09+02:00</lastmod>
+  </url><url>
     <loc>https://bclv.ch/pratique/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bclv.ch/club/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bclv.ch/photos/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bclv.ch/service/</loc>
   </url>
-  
 </urlset>

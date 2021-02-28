@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Badminton Club Le Vaud</title>
@@ -6,10 +6,18 @@
     <description>Recent content on Badminton Club Le Vaud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2020 06:07:08 +0200</lastBuildDate>
-    
-	<atom:link href="https://bclv.ch/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 28 Feb 2021 14:07:08 +0200</lastBuildDate><atom:link href="https://bclv.ch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Réouverture partielle du BCLV</title>
+      <link>https://bclv.ch/blog/reouverturepartiellemars2021/</link>
+      <pubDate>Sun, 28 Feb 2021 14:07:08 +0200</pubDate>
+      
+      <guid>https://bclv.ch/blog/reouverturepartiellemars2021/</guid>
+      <description>Chers membres
+Je vous salue amicalement et sportivement et vous souhaite une pleine santé et des forces renouvelées en ces temps de semi-confinement.
+Le Conseil Fédéral autorise une reprise progressive des activités sociales et sportives dès le mois de mars.
+Notre comité et moi-même souhaitons proposer à nos jeunes membres de 20 ans et moins une réouverture partielle de la salle en attendant plus de souplesse de l&amp;rsquo;OFSP et pour répondre prioritairement aux besoins que ceux-ci ont de se retrouver et de reprendre une activité régulière et saine pour leur santé physique et mentale.</description>
+    </item>
     
     <item>
       <title>Arrêt des entraînements</title>
@@ -43,7 +51,7 @@ Il va de soi que les mesures de protections mises en place par l’OFSP seront a
       <description>Chers Membres,
 Les entraînements reprennent dès le mercredi 23 Septembre 2020. Les horaires n&amp;rsquo;ont pas changé: de 18h30 à 22h00.
 Veuillez noter les restrictions suivantes en raison du COVID-19:
- - Il est obligatoire de se désinfecter les mains à l&amp;rsquo;entrée, du liquide hydro-alcoolique sera mis à disposition. - Le port du masque est obligatoire quand on ne joue pas (dans les couloirs, pour les spectateurs, etc.). - Le club ne met plus de raquettes à disposition.</description>
+   Il est obligatoire de se désinfecter les mains à l&amp;rsquo;entrée, du liquide hydro-alcoolique sera mis à disposition.     Le port du masque est obligatoire quand on ne joue pas (dans les couloirs, pour les spectateurs, etc.</description>
     </item>
     
     <item>
@@ -89,9 +97,7 @@ Vous pouvez d’ores et déjà retenir les dates suivantes pour venir jouer:</de
       
       <guid>https://bclv.ch/blog/tournoi2020/</guid>
       <description>Le tournoi interne inter-membres du club se déroulera le 18 mars 2020!
-Simple &amp;amp; double-mixte !
-Vous pouvez trouver votre partenaire de double d’ici-là et vous inscrire sur place le jour même !
-Des informations plus complètes vous serons données début mars.</description>
+Simple &amp;amp; double-mixte ! Vous pouvez trouver votre partenaire de double d’ici-là et vous inscrire sur place le jour même ! Des informations plus complètes vous serons données début mars.</description>
     </item>
     
     <item>

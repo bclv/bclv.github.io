@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tournoi 2020 on Badminton Club Le Vaud</title>
@@ -6,11 +6,7 @@
     <description>Recent content in tournoi 2020 on Badminton Club Le Vaud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Nov 2019 06:07:09 +0200</lastBuildDate>
-    
-	<atom:link href="https://bclv.ch/tags/tournoi-2020/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 10 Nov 2019 06:07:09 +0200</lastBuildDate><atom:link href="https://bclv.ch/tags/tournoi-2020/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tournoi interne 2020</title>
       <link>https://bclv.ch/blog/tournoi2020/</link>
@@ -18,9 +14,7 @@
       
       <guid>https://bclv.ch/blog/tournoi2020/</guid>
       <description>Le tournoi interne inter-membres du club se déroulera le 18 mars 2020!
-Simple &amp;amp; double-mixte !
-Vous pouvez trouver votre partenaire de double d’ici-là et vous inscrire sur place le jour même !
-Des informations plus complètes vous serons données début mars.</description>
+Simple &amp;amp; double-mixte ! Vous pouvez trouver votre partenaire de double d’ici-là et vous inscrire sur place le jour même ! Des informations plus complètes vous serons données début mars.</description>
     </item>
     
   </channel>
