@@ -16,23 +16,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>general</title>
-      <link>https://bclv.ch/categories/general/</link>
-      <pubDate>Tue, 31 Aug 2021 08:07:08 +0200</pubDate>
-      
-      <guid>https://bclv.ch/categories/general/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tournoi</title>
-      <link>https://bclv.ch/categories/tournoi/</link>
-      <pubDate>Sun, 10 Nov 2019 06:07:09 +0200</pubDate>
-      
-      <guid>https://bclv.ch/categories/tournoi/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
