@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ag 2024 on Badminton Club Le Vaud</title>
+    <title>Ag 2024 on Badminton Club Le Vaud</title>
     <link>https://bclv.ch/tags/ag-2024/</link>
-    <description>Recent content in ag 2024 on Badminton Club Le Vaud</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Ag 2024 on Badminton Club Le Vaud</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Feb 2024 06:07:08 +0200</lastBuildDate><atom:link href="https://bclv.ch/tags/ag-2024/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Feb 2024 06:07:08 +0200</lastBuildDate>
+    <atom:link href="https://bclv.ch/tags/ag-2024/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Assemblée générale 2024</title>
       <link>https://bclv.ch/blog/ag2024/</link>
       <pubDate>Tue, 27 Feb 2024 06:07:08 +0200</pubDate>
-      
       <guid>https://bclv.ch/blog/ag2024/</guid>
-      <description>Bonjour chères et chers membres!
-Notre AG aura lieu le mercredi 24 Avril 2024 à la salle des Cimes au bar &amp;ldquo;Le Phoenix&amp;rdquo; en lieu et place des entraînements, dès 19h.</description>
+      <description>&lt;p&gt;Bonjour chères et chers membres!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Notre AG aura lieu le mercredi 24 Avril 2024&lt;/strong&gt; à la salle des Cimes au bar &amp;ldquo;Le Phoenix&amp;rdquo; en lieu et place des entraînements, dès 19h.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
